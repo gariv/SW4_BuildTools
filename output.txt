@@ -1,0 +1,2 @@
+Hallo, dies ist eine einfache Textdatei.
+Diese Datei wurde mit einem Java-Programm erstellt, das durch Gradle verwaltet wird.
